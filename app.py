@@ -9,8 +9,9 @@ def home():
 
 # Hello route with a name parameter
 @app.route('/hello/<name>')
-def hello(name):
+def hello(name):  
     return f"Hello, {name}!"
+
 
 # Route to demonstrate JSON response
 @app.route('/api/data', methods=['GET'])
