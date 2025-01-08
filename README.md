@@ -32,3 +32,5 @@ git push origin main
 Jab bhi 1st Push ya Commit kre toh apne Github ka details daale,
 if nhi daalenge toh chalega nhi 
 
+developer_A branch is the exact replica of the main branch
+Ab mai iss branch me kuch bhi code kr skta hu
